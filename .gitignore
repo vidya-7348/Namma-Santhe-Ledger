@@ -1,0 +1,25 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Kotlin
+.kotlin
+
+# Android Studio generated
+/app/build
+
+# Logs
+*.log
+
+# APK files
+*.apk
+
+# AAB files
+*.aab
